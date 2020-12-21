@@ -6,7 +6,7 @@
     "size": "65KB"
   },
   {
-    "name": "Bookerly.ttf",
+    "name": "Literata.otf",
     "url": "https://github.com/VuThai96172/fonts/raw/master/fonts/Literata.ttf",
     "thumb": "https://github.com/VuThai96172/fonts/raw/master/fonts/Literata.jpeg",
     "size": "306KB"
@@ -34,12 +34,6 @@
     "url": "https://github.com/VuThai96172/fonts/raw/master/fonts/Geogrotesque.otf",
     "thumb": "https://github.com/VuThai96172/fonts/raw/master/fonts/Geogrotesque.jpeg",
     "size": "108KB"
-  },
-  {
-    "name": "Literata.otf",
-    "url": "https://github.com/VuThai96172/fonts/raw/master/fonts/Literata.otf",
-    "thumb": "https://github.com/VuThai96172/fonts/raw/master/fonts/Literata.jpeg",
-    "size": "144KB"
   },
   {
     "name": "MuseoSansCyrl.otf",
